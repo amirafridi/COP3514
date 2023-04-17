@@ -6,6 +6,7 @@
  */
 
 /* This program will ask the user to input an odd integer(N) between 3 and 11, and output a magic square with N rows and columns */
+// What are magic squres? https://en.wikipedia.org/wiki/Magic_square
 
 #include <stdio.h>
 
